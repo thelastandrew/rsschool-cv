@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Andrey Fedotov</title>
+  <script src="https://kit.fontawesome.com/4b9f042b7f.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <header class="header">
+    <div class="content header-content">
+      <div class="intro">
+        <h1 class="title">Andrey Fedotov</h1>
+        <p class="subtitle">Beginner Front-end Developer</p>
+      </div>
+      <nav class="nav">
+        <ul class="nav-links">
+          <li><a class="nav-link" href="#contacts">Contacts</a></li>
+          <li><a class="nav-link" href="#about">About</a></li>
+          <li><a class="nav-link" href="#education">Education</a></li>
+          <li><a class="nav-link" href="#skills">Skills</a></li>
+          <li><a class="nav-link" href="#code">Code Example</a></li>
+          <li><a class="nav-link" href="#projects">Projects</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="content main-content">
+      <section class="content-head">
+        <img src="./assets/userpic.jpg" alt="Andrey Fedotov" class="main-photo">
+        <div class="contacts" id="contacts">
+          <h2>Contacts</h2>
+          <div class="horizontal-line"></div>
+          <ul class="list">
+            <li><i class="fas fa-phone"></i>+7 (909) 681-69-50</li>
+            <li><i class="fas fa-envelope"></i>thelastandrew@gmail.com</li>
+            <li><i class="fab fa-telegram-plane"></i>@thelastandrew</li>
+          </ul>
+        </div>
+      </section>
+      <section class="about" id="about">
+        <h2>About</h2>
+        <div class="horizontal-line"></div>
+        <p class="about-content">Hi, my name is Andrey and I'm 33 years old. I moved to Moscow from Perm in 2012 and
+          have
+          been working as a furniture constructor since 2013. I also like to listen to music, such as hardcore punk,
+          post-hardcore etc. I play drums in a couple of local underground bands. </p>
+      </section>
+      <section class="education" id="education">
+        <h2>Education</h2>
+        <div class="horizontal-line"></div>
+        <ul class="list">
+          <li>2011 Perm State Technical University</li>
+          <li>2021 Responsive Web Design on <a class="link" href="https://www.freecodecamp.org/"
+              target="_blank">FreeCodeCamp.com</a>
+          </li>
+          <li>Russian language - native</li>
+          <li>English language - B1</li>
+        </ul>
+      </section>
+      <section class="skills" id="skills">
+        <h2>Hard Skills</h2>
+        <div class="horizontal-line"></div>
+        <ul class="list">
+          <li>HTML/CSS</li>
+          <li>Basic Javascript</li>
+        </ul>
+      </section>
+      <section class="code" id="code">
+        <h2>Code Example</h2>
+        <div class="horizontal-line"></div>
+        <pre class="code-area"><code data-language="javascript">function fakeBin(x){
+            let result = new Array();
+            for (let i=0; i&lt;x.length; i++) {
+              if (x[i]&lt;5) {
+                result[i] = &#39;0&#39;;
+              } else {
+                result[i] = &#39;1&#39;;
+              }
+            }
+            return result.join(&#39;&#39;);
+          }</code></pre>
+      </section>
+      <section class="projects" id="projects">
+        <h2>Projects</h2>
+        <div class="horizontal-line"></div>
+        <ul class="list">
+          <li><a class="link" href="https://thelastandrew.github.io/rsschool-cv/"
+              target="_blank">thelastandrew.github.io/rsschool-cv/</a></li>
+          <li>..list in progress..</li>
+        </ul>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="content footer-content">
+      <div class="github">
+        <a href="https://github.com/thelastandrew" target="_blank"><img src="./assets/GitHub-Mark-32px.png"
+            alt="Github Logo"></a>
+      </div>
+      <div class="date">
+        2022
+      </div>
+      <div class="rs-school">
+        <a href="https://rs.school/js/"><img src="./assets/rs_school_js.svg" alt="Rolling Scopes School logo"></a>
+      </div>
+    </div>
+  </footer>
+</body>
+
+</html>
