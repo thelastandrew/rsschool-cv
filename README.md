@@ -1,1 +1,1 @@
-# rsschool-cv
+https://thelastandrew.github.io/rsschool-cv/
