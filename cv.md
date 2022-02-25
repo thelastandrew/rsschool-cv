@@ -51,5 +51,5 @@ function dataReverse(data) {
 
 ## Languages
 
-- Rusiian - native
+- Russian - native
 - English - intermediate (B1)
