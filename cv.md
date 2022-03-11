@@ -28,10 +28,10 @@ Hi, my name is Andrey and I'm 33 years old. I moved to Moscow from Perm in 2012 
 
 ## Projects
 
-- [Prtfolio](https://thelastandrew.github.io/JSFEPRESCHOOL/portfolio/)
-- [Audio player](https://thelastandrew.github.io/JSFEPRESCHOOL/audio-player/)
-- [Random jokes](https://thelastandrew.github.io/JSFEPRESCHOOL/random-jokes/)
-- [Memory game](https://thelastandrew.github.io/JSFEPRESCHOOL/memory-game/)
+- [Prtfolio](https://rolling-scopes-school.github.io/thelastandrew-JSFEPRESCHOOL/portfolio/)
+- [Audio player](https://rolling-scopes-school.github.io/thelastandrew-JSFEPRESCHOOL/audio-player/)
+- [Random jokes](https://rolling-scopes-school.github.io/thelastandrew-JSFEPRESCHOOL/random-jokes/)
+- [Memory game](https://rolling-scopes-school.github.io/thelastandrew-JSFEPRESCHOOL/memory-game/)
 
 ## Code example
 
