@@ -1,6 +1,6 @@
 # Andrey Fedotov
 
-![userpic](assets/userpic.jpg)
+# ![userpic](assets/userpic.jpg)
 
 ## Contacts
 
@@ -16,7 +16,7 @@ Hi, my name is Andrey and I'm 33 years old. I moved to Moscow from Perm in 2012 
 - Graduated Perm State Technical University in 2011
 - Furniture constructor sience 2013
 - [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) in 2021
-- [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/) in 2022
+- [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/) in 2022 ([Certificate](https://app.rs.school/certificate/1pasast8))
 
 ## Skills
 
